@@ -1,7 +1,7 @@
 
 import chainlit as cl
 from agents.agent_base import  SimpleAgent
-from agents.agent_workpad import create_state_typed_dict
+# from agents.agent_workpad import create_state_typed_dict
 import logging
 import os
 from datetime import datetime
